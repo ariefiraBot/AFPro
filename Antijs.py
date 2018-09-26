@@ -12,13 +12,18 @@ from bs4 import BeautifulSoup
 import youtube_dl
 
 #===============================================================================================
-
-cl = LineClient(authToken="Ew4Sf2j5TGPqxsj5vMXb.5TJ574/cd62CzBU10EXXsW.HOv8/DCB+I8qiwOf3m6d1Q/ydyFzdpUM0vvsg3X5slE=")
-ki = LineClient(authToken="EvRMcbjLpA1xwrYGXgT9.VeFTGdOE/56ijwbAvKqwIq.r1ywfIPjtpHSz/78Kjhz4ulJWWLaQdx3yxzCYCDWtVw=")
-kk = LineClient(authToken="EvUb3zcOsxTP98Jezlzd.LycrTJy3VNSHs+TXnbWL+q.DbucZTpeMTFlKMADNQMcfT8f61+kNlfki2Uu1flESlM=")
-kc = LineClient(authToken="EvzYmgku5UUp9a0SDqBd.R3pvbPaHZAefVTS6/NUkhq./+OTGjuRhWgchx2JyIStWTeTNkThWHzpk91VnP4Xl98=")
-kb = LineClient(authToken="Evu3fviaGLaMfeS2lq4f.Kjlsk1n2VoCsCTQCNYEQBW.VynhCGP/TiaNI6D1WfosLb/lZiozPBJTgd7Nw3Et/b0=")
-sw = LineClient(authToken="EvzYmgku5UUp9a0SDqBd.R3pvbPaHZAefVTS6/NUkhq./+OTGjuRhWgchx2JyIStWTeTNkThWHzpk91VnP4Xl98=")
+cl = LineClient()
+ki = LineClient()
+kk = LineClient()
+kc = LineClient()
+kb = LineClient()
+sw = LineClient()
+#cl = LineClient(authToken="Ew4Sf2j5TGPqxsj5vMXb.5TJ574/cd62CzBU10EXXsW.HOv8/DCB+I8qiwOf3m6d1Q/ydyFzdpUM0vvsg3X5slE=")
+#ki = LineClient(authToken="EvRMcbjLpA1xwrYGXgT9.VeFTGdOE/56ijwbAvKqwIq.r1ywfIPjtpHSz/78Kjhz4ulJWWLaQdx3yxzCYCDWtVw=")
+#kk = LineClient(authToken="EvUb3zcOsxTP98Jezlzd.LycrTJy3VNSHs+TXnbWL+q.DbucZTpeMTFlKMADNQMcfT8f61+kNlfki2Uu1flESlM=")
+#kc = LineClient(authToken="EvzYmgku5UUp9a0SDqBd.R3pvbPaHZAefVTS6/NUkhq./+OTGjuRhWgchx2JyIStWTeTNkThWHzpk91VnP4Xl98=")
+#kb = LineClient(authToken="Evu3fviaGLaMfeS2lq4f.Kjlsk1n2VoCsCTQCNYEQBW.VynhCGP/TiaNI6D1WfosLb/lZiozPBJTgd7Nw3Et/b0=")
+#sw = LineClient(authToken="EvzYmgku5UUp9a0SDqBd.R3pvbPaHZAefVTS6/NUkhq./+OTGjuRhWgchx2JyIStWTeTNkThWHzpk91VnP4Xl98=")
 
 print ("==========[ Success Login ]===========")
 
