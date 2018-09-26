@@ -11,29 +11,29 @@ from gtts import gTTS
 from bs4 import BeautifulSoup
 import youtube_dl
 
-#Hilangkan saja tanda # untuk 0ake qr
-cl = LineClient(authToken='EvZsXM7bjAws2xHDl6xd.P5CcgrdWwe4rVLBuPVP07q.lN9GabuG7nOB4QrAfjJRJNmlBrGUUy1pLNoCemRdl2E=')
-#cl.log("Auth Token : " + str(cl.authToken))
+#Hilangkan saja tanda # untuk Pake token 
+#cl = LineClient(authToken='EvZsXM7bjAws2xHDl6xd.P5CcgrdWwe4rVLBuPVP07q.lN9GabuG7nOB4QrAfjJRJNmlBrGUUy1pLNoCemRdl2E=')
+cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-ki = LineClient(authToken='EvRMcbjLpA1xwrYGXgT9.VeFTGdOE/56ijwbAvKqwIq.r1ywfIPjtpHSz/78Kjhz4ulJWWLaQdx3yxzCYCDWtVw=')
-#ki.log("Auth Token : " + str(ki.authToken))
+#ki = LineClient(authToken='EvRMcbjLpA1xwrYGXgT9.VeFTGdOE/56ijwbAvKqwIq.r1ywfIPjtpHSz/78Kjhz4ulJWWLaQdx3yxzCYCDWtVw=')
+ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki)
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
-kk = LineClient(authToken='EvUb3zcOsxTP98Jezlzd.LycrTJy3VNSHs+TXnbWL+q.DbucZTpeMTFlKMADNQMcfT8f61+kNlfki2Uu1flESlM=')
-#kk.log("Auth Token : " + str(kk.authToken))
+#kk = LineClient(authToken='EvUb3zcOsxTP98Jezlzd.LycrTJy3VNSHs+TXnbWL+q.DbucZTpeMTFlKMADNQMcfT8f61+kNlfki2Uu1flESlM=')
+kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
-kc = LineClient(authToken='EvzYmgku5UUp9a0SDqBd.R3pvbPaHZAefVTS6/NUkhq./+OTGjuRhWgchx2JyIStWTeTNkThWHzpk91VnP4Xl98=')
-#kc.log("Auth Token : " + str(kc.authToken))
+#kc = LineClient(authToken='EvzYmgku5UUp9a0SDqBd.R3pvbPaHZAefVTS6/NUkhq./+OTGjuRhWgchx2JyIStWTeTNkThWHzpk91VnP4Xl98=')
+kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
-sw = LineClient(authToken='Evu3fviaGLaMfeS2lq4f.Kjlsk1n2VoCsCTQCNYEQBW.VynhCGP/TiaNI6D1WfosLb/lZiozPBJTgd7Nw3Et/b0=')
-#sw.log("Auth Token : " + str(sw.authToken))
+#sw = LineClient(authToken='Evu3fviaGLaMfeS2lq4f.Kjlsk1n2VoCsCTQCNYEQBW.VynhCGP/TiaNI6D1WfosLb/lZiozPBJTgd7Nw3Et/b0=')
+sw.log("Auth Token : " + str(sw.authToken))
 channel11 = LineChannel(sw)
 sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
 
