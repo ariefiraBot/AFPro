@@ -1,0 +1,43 @@
+
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'receiver' referenced before assignment
+[<module 'time' (built-in)>] local variable 'receiver' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'u3a57fe7a017c0e252f71c2f979df63c2'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cc732e3c7309779750ebf36c5566ca468', parameterMap={'2': 'cc732e3c7309779750ebf36c5566ca468'})
+[<module 'time' (built-in)>] 'ud1bb6a3fab78bfe91bfb7a1004c8f85b'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cc732e3c7309779750ebf36c5566ca468', parameterMap={'2': 'cc732e3c7309779750ebf36c5566ca468'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cc732e3c7309779750ebf36c5566ca468', parameterMap={'2': 'cc732e3c7309779750ebf36c5566ca468'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cc732e3c7309779750ebf36c5566ca468', parameterMap={'2': 'cc732e3c7309779750ebf36c5566ca468'})
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cc732e3c7309779750ebf36c5566ca468', parameterMap={'2': 'cc732e3c7309779750ebf36c5566ca468'})
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
+[<module 'time' (built-in)>] list indices must be integers or slices, not str
