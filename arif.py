@@ -11,6 +11,7 @@ from gtts import gTTS
 from bs4 import BeautifulSoup
 import youtube_dl
 
+#Hilangkan saja tanda # untuk 0ake qr
 cl = LineClient(authToken='EvZsXM7bjAws2xHDl6xd.P5CcgrdWwe4rVLBuPVP07q.lN9GabuG7nOB4QrAfjJRJNmlBrGUUy1pLNoCemRdl2E=')
 #cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
